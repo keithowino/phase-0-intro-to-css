@@ -1,0 +1,15 @@
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.footer-text {
+  display: block;
+  text-align: center;
+}
